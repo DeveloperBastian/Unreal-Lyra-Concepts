@@ -10,9 +10,11 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "APPEARANCES": [Change your Lyra character appearance to a Paragon, a marketplace asset or a MetaHuman](https://youtu.be/iBne_Sgu6N8)
 *	Infographic "MENUS": [Add the Lyra option- and in-game menu, plus the Lyra start screen to your gamefeatureplugin](https://youtu.be/kBAs5O_YpzY)
 *	Infographic "ABILITIES & INPUT": [Add a Lyra Gameplay Ability and a localized Enhanced Input Mapping](https://youtu.be/S9gZdC_4DOI)
+*	Infographic "ABILITIES USAGE 01": [Implement a global listener to react to Gameplay Tag changes](https://youtu.be/S9gZdC_4DOI)
+*	Infographic "ABILITIES USAGE 02": [: Create an Gameplay Ability Template and understand its components](https://youtu.be/kwrV-eDWImI)
 
 # Tutorials planned
-*	Gameplay Abilities 02: How to work with abilities - listen, react to, cancel - all in multiplayer
+*	Gameplay Abilities 03: Interact with targets, grant abilities through environment
 
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
