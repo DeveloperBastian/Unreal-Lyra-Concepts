@@ -13,9 +13,10 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "ABILITIES USAGE 01": [Implement a global listener to react to Gameplay Tag changes](https://youtu.be/S9gZdC_4DOI)
 *	Infographic "ABILITIES USAGE 02": [Create an Gameplay Ability Template and understand its components](https://youtu.be/kwrV-eDWImI)
 *	Infographic "ABILITIES USAGE 03": [Interact with targets, grant abilities through environment](https://youtu.be/vPkahUXpTK8)
+*	Infographic "ABILITIES USAGE 04": [Cues, Cooldowns and Effects: Building a Teleporter](https://youtu.be/8nVXALXJ24o)
 
 # Tutorials planned
-*	Gameplay Abilities 04: Gathering, mining, wood chopping
+*	Gameplay Abilities 05: Gathering, mining, wood chopping
 
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
