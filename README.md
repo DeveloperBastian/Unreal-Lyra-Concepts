@@ -14,6 +14,7 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "ABILITIES USAGE 02": [Create an Gameplay Ability Template and understand its components](https://youtu.be/kwrV-eDWImI)
 *	Infographic "ABILITIES USAGE 03": [Interact with targets, grant abilities through environment](https://youtu.be/vPkahUXpTK8)
 *	Infographic "ABILITIES USAGE 04": [Cues, Cooldowns and Effects: Building a Teleporter](https://youtu.be/8nVXALXJ24o)
+*	Infographic "APPEARANCES 02": [Sketchfab -> Realusion AccuRig -> Unreal Lyra](https://youtu.be/t2mPy8xjS8M)
 
 # Tutorials planned
 *	Gameplay Abilities 05: Gathering, mining, wood chopping
