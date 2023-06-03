@@ -15,9 +15,10 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "ABILITIES USAGE 03": [Interact with targets, grant abilities through environment](https://youtu.be/vPkahUXpTK8)
 *	Infographic "ABILITIES USAGE 04": [Cues, Cooldowns and Effects: Building a Teleporter](https://youtu.be/8nVXALXJ24o)
 *	Infographic "APPEARANCES 02": [Sketchfab -> Realusion AccuRig -> Unreal Lyra](https://youtu.be/t2mPy8xjS8M)
+*	Infographic "ABILITIES USAGE 05": [Abilities through Equipment, dynamic Input Context Mapping](https://youtu.be/rDTqeWZLO5U)
 
 # Tutorials planned
-*	Gameplay Abilities 05: Gathering, mining, wood chopping
+*	Gameplay Abilities 06: Gathering, mining, wood chopping
 
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
