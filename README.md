@@ -16,9 +16,11 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "ABILITIES USAGE 04": [Cues, Cooldowns and Effects: Building a Teleporter](https://youtu.be/8nVXALXJ24o)
 *	Infographic "APPEARANCES 02": [Sketchfab -> Realusion AccuRig -> Unreal Lyra](https://youtu.be/t2mPy8xjS8M)
 *	Infographic "ABILITIES USAGE 05": [Abilities through Equipment, dynamic Input Context Mapping](https://youtu.be/rDTqeWZLO5U)
+*	Infographic "ATTRIBUTES": [Create an Attribute Set and use it from Blueprint](https://youtu.be/R51mHjOWPws)
 
 # Tutorials planned
 *	Gameplay Abilities 06: Gathering, mining, wood chopping
+*	Gameplay Attributes 02: Initialization, manipulation, visualization
 
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
@@ -26,6 +28,7 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 For the planned tutorials, the infographic should not be used as these are still in draft - look at the red film sign on top of each box - this indicates a finished tutorial.
 You can access the full plugin project at [https://github.com/DeveloperBastian/BastianPlugin](https://github.com/DeveloperBastian/BastianPlugin)
 
+The AttributeSet generator can be accessed at [https://bit.ly/AttributeGenerator](https://bit.ly/AttributeGenerator)
 
 
 
