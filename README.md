@@ -17,10 +17,13 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "APPEARANCES 02": [Sketchfab -> Realusion AccuRig -> Unreal Lyra](https://youtu.be/t2mPy8xjS8M)
 *	Infographic "ABILITIES USAGE 05": [Abilities through Equipment, dynamic Input Context Mapping](https://youtu.be/rDTqeWZLO5U)
 *	Infographic "ATTRIBUTES": [Create an Attribute Set and use it from Blueprint](https://youtu.be/R51mHjOWPws)
+*	Infographic "WEAPONS": [Import a weapon mesh and define it as spawnable Lyra weapon with the right animations](https://youtu.be/rLe4Gxx3nhE)
+
 
 # Tutorials planned
 *	Gameplay Abilities 06: Gathering, mining, wood chopping
 *	Gameplay Attributes 02: Initialization, manipulation, visualization
+*	Weapon Usage: Gameplay Abilities for weapons and graphical representation
 
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
