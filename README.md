@@ -20,6 +20,8 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 *	Infographic "WEAPONS": [Import a weapon mesh and define it as spawnable Lyra weapon with the right animations](https://youtu.be/rLe4Gxx3nhE)
 
 
+This finished the first infographic as I am running out of space: I will start now a second one with more complex processes on top of the framework we build until now.
+
 # Tutorials planned
 *	Gameplay Abilities 06: Gathering, mining, wood chopping
 *	Gameplay Attributes 02: Initialization, manipulation, visualization
@@ -28,10 +30,16 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 # Tutorials very early draft (not yet on Infographic)
 *	Some misc things that are not fully Lyra related, but needed: Landscape modelling and -automation
 
-For the planned tutorials, the infographic should not be used as these are still in draft - look at the red film sign on top of each box - this indicates a finished tutorial.
 You can access the full plugin project at [https://github.com/DeveloperBastian/BastianPlugin](https://github.com/DeveloperBastian/BastianPlugin)
 
 The AttributeSet generator can be accessed at [https://bit.ly/AttributeGenerator](https://bit.ly/AttributeGenerator)
 
+
+# License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+	<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+</a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
