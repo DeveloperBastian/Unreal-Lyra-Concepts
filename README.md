@@ -20,7 +20,7 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 
 Download this first [Infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20Lyra.pdf) to start with Lyra and understand the entities and how they work together.
 
-
+# Infographic 02
 ## Tutorials released
 *	"INVENTORY 01": [How to build a scalable, reusable multiplayer inventory system](https://youtu.be/eBKAI46Psyk)
 
