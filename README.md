@@ -27,9 +27,14 @@ Download this first [Infographics](https://github.com/DeveloperBastian/Unreal-Ly
 Download this second [Infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20Lyra%20-%20BA%20Processes.pdf) for more complex processes that are not directly Lyra related but build on top of it.
 
 
-# Get the plugin
+# Get the Lyra starter plugin
 
 You can access the full plugin project at [https://github.com/DeveloperBastian/BastianPlugin](https://github.com/DeveloperBastian/BastianPlugin)
+
+# Get the BA Inventory project
+
+You can access the full inventory plugin at [https://github.com/DeveloperBastian/BA_Inventory](https://github.com/DeveloperBastian/BA_Inventory)
+
 
 # Get the Attribute Generator
 
