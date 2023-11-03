@@ -20,9 +20,11 @@ I will publish in parallel videos to explain all concepts at https://www.youtube
 
 Download this first [Infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20Lyra.pdf) to start with Lyra and understand the entities and how they work together.
 
-# Infographic 02
+# Infographic 02 - BA Inventory
 ## Tutorials released
 *	"INVENTORY 01": [How to build a scalable, reusable multiplayer inventory system](https://youtu.be/eBKAI46Psyk)
+*	"INVENTORY 02": [Data driven ingest of Dungeons&Dragons weapons, anatomy of the BP_Item class and how to create and use fragments](https://youtu.be/yfLxDo2sR5s)
+*	"INVENTORY 03": [Common UI considerations, building of a scrollable inventory grid](https://youtu.be/zDbt3GhzApo)
 
 Download this second [Infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20Lyra%20-%20BA%20Processes.pdf) for more complex processes that are not directly Lyra related but build on top of it.
 
@@ -34,7 +36,6 @@ You can access the full plugin project at [https://github.com/DeveloperBastian/B
 # Get the BA Inventory project
 
 You can access the full inventory plugin at [https://github.com/DeveloperBastian/BA_Inventory](https://github.com/DeveloperBastian/BA_Inventory)
-
 
 # Get the Attribute Generator
 
