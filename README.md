@@ -2,6 +2,11 @@
 Concepts on my journey to use Lyra as a basis for games.
 I will publish in parallel videos to explain all concepts at https://www.youtube.com/@bastiandev
 
+#Update to Unreal 5.3#
+I updated as 5.3 introduced some changes for input mapping and character import:
+- [Empty map with pirate character](https://youtu.be/XHDDYODFlQ0)
+
+
 # Infographic 01
 ## Tutorials released
 *	"INSTALLATION": [Install your environment](https://youtu.be/frpAzIuGLDU)
